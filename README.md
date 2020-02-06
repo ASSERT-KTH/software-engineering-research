@@ -1,4 +1,10 @@
-# Research and teaching material about code quality at KTH
+# Research material about software engineering
+
+Datasets
+========
+
+* See https://github.com/KTH/software-engineering-research/issues/3
+* See https://github.com/wasp-sweden/wara-sw
 
 Master's theses
 =================
