@@ -1,0 +1,5 @@
+language: java
+install: true
+script:
+  - pushd test-selection/hkrts/; mvn test; popd
+  - pushd test-selection/predictive_rts/; mvn test; popd
