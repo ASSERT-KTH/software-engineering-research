@@ -3,7 +3,7 @@
 Datasets
 ========
 
-* See https://github.com/KTH/software-engineering-research/issues/3
+* See https://github.com/KTH/software-engineering-research/issues/4
 * See https://github.com/wasp-sweden/wara-sw
 
 Master's theses
