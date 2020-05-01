@@ -14,6 +14,11 @@ Datasets
 Master's theses
 =================
 
+Master's theses on program repair:
+
+* [A template-based approach to automatic program repair of Sonarqube static warnings](http://www.csc.kth.se/~ann/exjobb/haris_adzemovic.pdf) (Haris Adzemovic, 2020)
+* [The Essence of Similarity in Redundancy-based Program Repair](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-240606) (Zimin Chen, 2018)
+
 Master's theses on defect prediction:
 
 * [Investigating the Practicality of Just-in-time Defect Prediction with Semi-supervised Learning on Industrial Commit Data](http://kth.diva-portal.org/smash/get/diva2:1336751/FULLTEXT02.pdf) (Arsalan Syed, 2019)
