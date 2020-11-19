@@ -1,6 +1,6 @@
-# Software engineering @KTH
+# Software engineering master's and PhD theses @KTH
 
-Some resources about software engineering research at KTH. Notes that they are not comprehensive.
+Note that this is not meant to be comprehensive.
 
 Master's theses
 =================
@@ -24,11 +24,12 @@ Master's theses on defect prediction:
 * [Investigating the Practicality of Just-in-time Defect Prediction with Semi-supervised Learning on Industrial Commit Data](http://kth.diva-portal.org/smash/get/diva2:1336751/FULLTEXT02.pdf) (Arsalan Syed, 2019)
 * [Just-In-Time Software Defect Prediction using version control tool based software metrics and source code embeddings](http://www.nada.kth.se/~ann/exjobb/christopher_dahlen.pdf) (Christopher Dalén, 2019)
 
-Master's theses on test selection and prioritization:
+Master's theses on testing:
 
-* [Test case prioritization in the context of a video game development project](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-265653) (Rami Karim, 2019)
-* [EALRTS : A predictive regression test selection tool](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-264978) (Erik Lundsten, 2019)
-* [Limiting Transitive Closure for Static Regression Test Selection approaches](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-254951) (Henrik Karlsson, 2018)
+* John Kvarnefalk,  [Pseudo-tested Methods in an Android Continous Integration Environment](http://kth.diva-portal.org/smash/get/diva2:1468320/FULLTEXT01.pdf) (2020)  [slides](https://github.com/KTH/software-engineering-research/blob/master/theses/slides/2020%20Pseudo-tested_Methods_in_an_Android_Continous_Integration_Environment.pdf)
+* Rami Karim [Test case prioritization in the context of a video game development project](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-265653) (2019)
+* Erik Lundsten, [EALRTS : A predictive regression test selection tool](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-264978) (2019)
+* Henrik Karlsson, [Limiting Transitive Closure for Static Regression Test Selection approaches](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-254951) (2018)
 
 
 Tools
