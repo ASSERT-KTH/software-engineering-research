@@ -7,14 +7,14 @@ Master's theses
 
 Master's theses on code transformation:
 
-* Simon Larsén, [Spork: Move-enabled structured merge for Java](http://kth.diva-portal.org/smash/get/diva2:1471148/FULLTEXT01.pdf) (2020) [slides](https://github.com/KTH/software-engineering-research/blob/master/theses/slides/2020%20Spork:%20Structured%20merge%20for%20Java%20with%20GumTree%20diff%20and%203DM.pdf)
-* Julius Colliander Celik, [Plutt: A tool for creating type-safe and version-safe microfrontends](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280090) (2020) [slides](https://github.com/KTH/software-engineering-research/blob/master/theses/slides/2020%20Plutt%20A%20tool%20for%20creating%20type-safe%20and%20version-safe%20microfrontends.pdf)
+* Simon Larsén, [Spork: Move-enabled structured merge for Java](http://kth.diva-portal.org/smash/get/diva2:1471148/FULLTEXT01.pdf) (2020) [slides](/theses/slides/2020%20Spork:%20Structured%20merge%20for%20Java%20with%20GumTree%20diff%20and%203DM.pdf)
+* Julius Colliander Celik, [Plutt: A tool for creating type-safe and version-safe microfrontends](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280090) (2020) [slides](/theses/slides/2020%20Plutt%20A%20tool%20for%20creating%20type-safe%20and%20version-safe%20microfrontends.pdf)
 
 
 Master's theses on program repair:
 
-*  Yi-Pei Tu, [Self-healing Middleware Support for Python/Django Web Applications](http://www.csc.kth.se/~ann/exjobb/yi-pei_tu.pdf) (2020) [slides](https://github.com/KTH/software-engineering-research/blob/master/theses/slides/2020%20Self-healing%20Middleware%20Support%20for%20Python-Django%20Web%20Applications.pdf)
-* Haris Adzemovic [A template-based approach to automatic program repair of Sonarqube static warnings](http://www.csc.kth.se/~ann/exjobb/haris_adzemovic.pdf) (2020)
+*  Yi-Pei Tu, [Self-healing Middleware Support for Python/Django Web Applications](http://www.csc.kth.se/~ann/exjobb/yi-pei_tu.pdf) (2020) [slides](/theses/slides/2020%20Self-healing%20Middleware%20Support%20for%20Python-Django%20Web%20Applications.pdf)
+* Haris Adzemovic [A template-based approach to automatic program repair of Sonarqube static warnings](http://www.csc.kth.se/~ann/exjobb/haris_adzemovic.pdf) (2020) [slides](/theses/slides/2020-A-template-based-approach-automatic-program-repair-static-bugs.pdf)
 * Johannes Wirkkala Westlund [Introducing automatic software fault localization in a continuous integration environment](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1424346) (2019)
 * Zimin Chen [The Essence of Similarity in Redundancy-based Program Repair](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-240606) (2018)
 
